@@ -14,12 +14,12 @@ Requires [Hubot](http://hubot.github.com/) of course.
 
 Configuration
 -------------
-Edit the po variable below ("Potential Options") to indicate the name of restaurants in your immediate area and a relative weight. A higher weight will have a higher probability of being selected.
+Edit the "po" variable in the hubot-lunchtime.js file to indicate the name of restaurants in your immediate area and a relative weight. A higher weight will have a higher probability of being selected ("po" stands for "Potential Options").
 
 
 Commands
 --------
-Simply mention the word "lunch." No need to address your Hubot directly.
+lunch - Simply mention the word "lunch," and hubot gets hungry.
 
 
 Author

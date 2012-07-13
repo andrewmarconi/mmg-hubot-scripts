@@ -1,19 +1,19 @@
 /**
  * Description:
- * Helps you to decide where to have lunch.
+ *   Helps you to decide where to have lunch.
  *
  * Dependencies:
- * None
+ *   None
  * 
  * Configuration:
- * Edit the po variable below ("Potential Options") to indicate the name of restaurants in your immediate area and a relative weight.
- * A higher weight will have a higher probability of being selected.
+ *   Edit the po variable below ("Potential Options") to indicate the name of restaurants in your immediate area and 
+ *   a relative weight. A higher weight will have a higher probability of being selected.
  * 
  * Commands:
- * Simply mention the word "lunch." No need to address your Hubot directly.
+ *   lunch - Simply mention the word "lunch," and hubot gets hungry.
  *
  * Author:
- * andrewmarconi / http://andrewmarconi.com
+ *   andrewmarconi
  * 
  **/
 
