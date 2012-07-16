@@ -24,7 +24,7 @@ var i, j, ix, jx,
 		{ weight: 6, name: "Rainbow Falafel" },
 		{ weight: 5, name: "Sophie's Cuban" },
 		{ weight: 4, name: "Cafe Medina" },
-		{ weight: 3, name: "Chipolte" },
+		{ weight: 3, name: "Old Town Bar" },
 		{ weight: 1, name: "Indian buffet" }
 	],
 	re = [
